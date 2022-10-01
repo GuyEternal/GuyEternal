@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 Languages I know: 
 <br>
-<img src="https://i.imgur.com/zINUxVf.png" alt="drawing" width="30">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/archive/3/35/20220802133510%21The_C_Programming_Language_logo.svg/120px-The_C_Programming_Language_logo.svg.png" alt="drawing" width="30">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="drawing" width="40">
 <br>
 Languages I am learning:<br>
