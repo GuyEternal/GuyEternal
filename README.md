@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GuyEternal
-- 👀 I’m interested in ML & Pythom
+- 👀 I’m interested in ML & Python
 - 🌱 I’m currently learning Python & ML & DSA
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me LinkedIn: Deep Jawale
@@ -20,3 +20,4 @@ Languages I am learning:<br>
 <br>
 [![@guyeternal's Holopin board](https://holopin.io/api/user/board?user=guyeternal)](https://holopin.io/@guyeternal)
 
+<a href="https://app.daily.dev/GuyEternal"><img src="https://api.daily.dev/devcards/50fcbdedfedb4e0d828101321d7e744e.png?r=m0j" width="400" alt="Deep Jawale's Dev Card"/></a>
