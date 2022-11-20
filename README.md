@@ -20,6 +20,4 @@ Languages I am learning:<br><br>
 <br><br>
 
 [![@guyeternal's Holopin board](https://holopin.io/api/user/board?user=guyeternal)](https://holopin.io/@guyeternal)
-<div align="center">
-<a href="https://app.daily.dev/GuyEternal"><img src="https://api.daily.dev/devcards/50fcbdedfedb4e0d828101321d7e744e.png?r=m0j" width="400" alt="Deep Jawale's Dev Card"/></a>
-</div>
+<a href="https://app.daily.dev/GuyEternal"><img src="https://api.daily.dev/devcards/50fcbdedfedb4e0d828101321d7e744e.png?r=2hk" width="400" alt="Deep Jawale's Dev Card"/></a>
