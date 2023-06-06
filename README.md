@@ -16,7 +16,7 @@ I know:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,sass,linux,mysql)](https://skillicons.dev)
 <br>
 I am learning:<br><br>
-[![My Skills](https://skillicons.dev/icons?i=react,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 </p>
 <br><br>
 <p align="center">
