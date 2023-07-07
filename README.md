@@ -3,20 +3,26 @@
 - 👀 I haven't found anything quite interesting yet, I am still exploring
 - 🌱 I’m currently learning Data Structures and Algorithm and Web Development
 - 💞️ I’m looking to collaborate on LinkedIn
-- 📫 How to reach me :
-Deep Jawale Discord: GuyEternal#2129
-
+- 📫 How to reach me :<br>
+<p style="text-align: center;">
+  <a href="https://www.linkedin.com/in/deepjawale/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="GuyEternal#2129">
+<img src="https://skillicons.dev/icons?i=discord" />
+  </a>
+</p>
 <!---
 GuyEternal/GuyEternal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-I know: 
+I have worked with: 
 <br> <br>
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,sass,linux,mysql)](https://skillicons.dev)
-<br>
-I am learning:<br><br>
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+<br>
+
 </p>
 <br><br>
 <p align="center">
