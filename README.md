@@ -1,6 +1,5 @@
 
 - 👋 Hi, I’m @GuyEternal
-- 👀 I haven't found anything quite interesting yet, I am still exploring
 - 🌱 I’m currently learning Data Structures and Algorithm and Web Development
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me :<br>
