@@ -1,14 +1,14 @@
 
-- 👋 Hi, I’m @GuyEternal
-- 🌱 I’m currently learning Data Structures and Algorithm and Web Development
-- 💞️ I’m looking to collaborate on LinkedIn
-- 📫 How to reach me :<br>
+#### 👋 Hi, I’m @GuyEternal
+#### 🌱 I’m currently learning Data Structures and Algorithm and Web Development
+#### 💞️ I’m looking to collaborate on LinkedIn
+#### 📫 How to reach me :<br>
 <p style="text-align: center;">
   <a href="https://www.linkedin.com/in/deepjawale/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="GuyEternal#2129">
-<img src="https://skillicons.dev/icons?i=discord" />
+  <a href="mailto:deepshrikrishna9@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
 <!---
@@ -17,10 +17,14 @@ You can click the Preview link to take a look at your changes.
 --->
 
 I have worked with: 
-<br> <br>
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,sass,linux,mysql)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 <br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,bash,html,css,sass,react,vite,vercel,webpack,nodejs,express,mongodb,mysql,aws,docker,nginx,windows,linux,ubuntu,vscode,sublime,postman,mint,md,latex,git,github,babel,anaconda" />
+  </a>
+</p>
+
 
 </p>
 <br><br>
