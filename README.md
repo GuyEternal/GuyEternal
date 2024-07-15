@@ -21,7 +21,7 @@ I have worked with:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,bash,html,css,sass,react,vite,vercel,webpack,nodejs,express,mongodb,mysql,aws,docker,nginx,windows,linux,ubuntu,vscode,sublime,postman,mint,md,latex,git,github,babel,anaconda" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,bash,html,css,sass,react,vite,vercel,webpack,nodejs,express,mongodb,mysql,aws,docker,anaconda,nginx,linux,ubuntu,vscode,sublime,postman,md,latex,git,github" />
   </a>
 </p>
 
