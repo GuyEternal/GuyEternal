@@ -1,6 +1,6 @@
 
 #### 👋 Hi, I’m @GuyEternal
-#### 🌱 I’m currently learning Data Structures and Algorithm and Web Development
+#### 🌱 I’m currently working with Django and exploring MCP and AI tools like Cursor
 #### 💞️ I’m looking to collaborate on LinkedIn
 #### 📫 How to reach me :<br>
 <p style="text-align: center;">
@@ -21,7 +21,7 @@ I have worked with:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,bash,html,css,sass,react,vite,vercel,webpack,nodejs,express,mongodb,mysql,aws,docker,anaconda,nginx,linux,ubuntu,vscode,sublime,postman,md,latex,git,github" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,js,bash,html,css,sass,react,vite,vercel,webpack,nodejs,typescript,jest,jquery,kafka,redis,npm,django,express,mongodb,mysql,aws,docker,nginx,linux,ubuntu,vscode,sublime,postman,md,latex,git,github" />
   </a>
 </p>
 
