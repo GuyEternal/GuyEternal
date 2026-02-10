@@ -1,6 +1,6 @@
 
 #### 👋 Hi, I’m @GuyEternal
-#### 🌱 I’m currently working with Django and exploring MCP and AI tools like Cursor
+#### 🌱 I’m currently building Agentic workflows from scratch!
 #### 💞️ I’m looking to collaborate on LinkedIn
 #### 📫 How to reach me :<br>
 <p style="text-align: center;">
